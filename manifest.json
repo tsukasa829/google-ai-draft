@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Google AI モード 下書き","version":"0.1.0","description":"別の入力欄で下書きし、Google 検索の AI モードに送信します。","content_scripts":[{"matches":["https://www.google.com/ai*","https://www.google.com/search*"],"js":["content.js"]}]}
